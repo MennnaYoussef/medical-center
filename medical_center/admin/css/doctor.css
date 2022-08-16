@@ -1,0 +1,155 @@
+
+.formsearchbtn
+{
+    width: 60% !important;
+    background-color: #ebedef;
+    padding: 6px;
+    margin-left: 20%;
+}
+
+.formsearchbtn:hover
+{
+    cursor: pointer;
+}
+
+.searchform
+{
+    padding-top: 10px;
+    width: 60%;
+    background-color: #575757;
+    padding-bottom:5px;
+    margin-left: 20%;
+    display: none;
+}
+
+.word select
+{
+    width: 100%;
+    height: 100%;
+}
+.word h5
+{
+    padding-top: 7px;
+    color: #ced2d8;
+}
+.searchicon
+{
+    float: right;
+    padding-top: 3px;
+}
+
+.searchbtn:hover{
+    background-color:#575757;
+    color: white;
+}
+
+.searchbtn
+{
+    background-color: #4c4f54;
+    color:#ced2d8;
+    margin-left: 20%;
+}
+.addstudent
+{
+    margin-top: 2%;
+    padding-left: 23%;
+}
+
+.addstudentbtn
+{
+
+    width:30%;
+}
+.sections
+{
+    margin-top: 10px;
+}
+.table
+{
+    width: 100%;
+    color: #ced2d8;
+}
+
+.servicetable
+{
+    width:100%;
+    background-color: rgb(0,0,0,0.3);
+    margin-left: 30%;
+    margin-top: 2%;
+    box-shadow: 0 1px 9px 3px 181924;
+}
+.contentobjects
+{
+    width:100%;
+    height: 100%;
+    background-color: #1a1a21;
+    margin-left: 2.5%;
+    padding-top: 2%;
+}
+.edit
+{
+    cursor: pointer;
+}
+
+.delete
+{
+    cursor: pointer;
+}
+.showform
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0,0,0,0.7);
+    position: fixed;
+    left: 0px;
+    z-index:15;
+    display: none;
+}
+.editform
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0,0,0,0.7);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index:15;
+    display: none;
+}
+.serviceform
+{
+    width:100%;
+    background-color: rgb(0,0,0,0.3);
+    margin-left: 70%;
+    padding-top: 5%;
+    margin-top: 30%;
+    box-shadow: 0 1px 9px 3px #B0B0B0;
+}
+.inputform
+{
+    width:50%;
+    margin-bottom: 10px;
+    margin-left: 25%;
+}
+.inputbtn
+{
+    width:25%;
+    margin-left: 38%;
+    margin-bottom: 20px;
+}
+.exitt
+{
+    font-size: 25px;
+    color:#8F8F8F;
+    float: right;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.exit
+{
+    font-size: 25px;
+    color:#8F8F8F;
+    float: right;
+    margin-right: 5px;
+    cursor: pointer;
+}
